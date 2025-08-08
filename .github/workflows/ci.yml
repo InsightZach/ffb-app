@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     defaults:
       run:
-        working-directory: FFB 2025/ffb-app
+        working-directory: "FFB 2025/ffb-app"
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -19,15 +19,19 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '20.x'
           cache: 'npm'
-          cache-dependency-path: FFB 2025/ffb-app/package-lock.json
+          cache-dependency-path: "FFB 2025/ffb-app/package-lock.json"
 
       - name: Install deps
         run: npm ci
+        env:
+          EXPO_NO_TELEMETRY: 1
 
       - name: Build web export
         run: npm run build
+        env:
+          EXPO_NO_TELEMETRY: 1
 
       - name: Upload artifact (dist)
         uses: actions/upload-artifact@v4
