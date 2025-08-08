@@ -1,0 +1,42 @@
+name: Nightly Data Refresh
+
+on:
+  schedule:
+    - cron: '0 7 * * *' # 07:00 UTC daily
+  workflow_dispatch:
+
+jobs:
+  build-data:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: FFB 2025/ffb-app
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+          cache-dependency-path: FFB 2025/ffb-app/package-lock.json
+
+      - name: Install deps
+        run: npm ci
+
+      - name: Build data
+        run: npm run build:data
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v6
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "data: nightly refresh"
+          title: "data: nightly refresh"
+          body: "Automated data refresh"
+          branch: "data/nightly-refresh"
+          add-paths: |
+            FFB 2025/ffb-app/data/**
