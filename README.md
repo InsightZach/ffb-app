@@ -6,7 +6,7 @@ A simple iPhone-friendly app to create your own rankings:
 - Will show 2024 stats, 2025 projections, and 2025 ADPs (Underdog, CBS, ESPN) per player
 
 ## Live App
-- Vercel: <YOUR_VERCEL_URL_HERE>
+- Vercel: https://ffb-app-71ka.vercel.app/
 
 ## Run
 - Web preview: `npm run web`
