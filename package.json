@@ -7,7 +7,10 @@
     "android": "expo start --android",
     "ios": "expo start --ios",
     "web": "expo start --web",
-    "build": "expo export --platform web --output-dir dist"
+    "build": "expo export --platform web --output-dir dist",
+    "build:data": "node scripts/build-data.mjs",
+    "export:ranks": "node scripts/export-ranks.mjs",
+    "import:ranks": "node scripts/import-ranks.mjs"
   },
   "dependencies": {
     "@shopify/flash-list": "^2.0.2",
