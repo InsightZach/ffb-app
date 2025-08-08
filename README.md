@@ -5,6 +5,9 @@ A simple iPhone-friendly app to create your own rankings:
 - Local persistence (Expo Secure Store)
 - Will show 2024 stats, 2025 projections, and 2025 ADPs (Underdog, CBS, ESPN) per player
 
+## Live App
+- Vercel: <YOUR_VERCEL_URL_HERE>
+
 ## Run
 - Web preview: `npm run web`
 - Expo Go (iOS/Android): `npx expo start` and scan the QR code
