@@ -21,7 +21,7 @@ jobs:
         with:
           node-version: '20.x'
           cache: 'npm'
-          cache-dependency-path: "FFB 2025/ffb-app/package-lock.json"
+          cache-dependency-path: "**/package-lock.json"
 
       - name: Install deps
         run: npm ci
