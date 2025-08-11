@@ -64,16 +64,16 @@
     }
   },
   {
-    "id": "fp_amon-ra-st-brown-det",
-    "name": "Amon-Ra St. Brown DET",
+    "id": "fp_malik-nabers-nyg",
+    "name": "Malik Nabers NYG",
     "pos": "WR5",
     "adp": {
       "fantasypros": 9
     }
   },
   {
-    "id": "fp_malik-nabers-nyg",
-    "name": "Malik Nabers NYG",
+    "id": "fp_amon-ra-st-brown-det",
+    "name": "Amon-Ra St. Brown DET",
     "pos": "WR6",
     "adp": {
       "fantasypros": 10
@@ -152,17 +152,17 @@
     }
   },
   {
-    "id": "fp_drake-london-atl",
-    "name": "Drake London ATL",
-    "pos": "WR10",
+    "id": "fp_lamar-jackson-bal",
+    "name": "Lamar Jackson BAL",
+    "pos": "QB1",
     "adp": {
       "fantasypros": 20
     }
   },
   {
-    "id": "fp_lamar-jackson-bal",
-    "name": "Lamar Jackson BAL",
-    "pos": "QB1",
+    "id": "fp_drake-london-atl",
+    "name": "Drake London ATL",
+    "pos": "WR10",
     "adp": {
       "fantasypros": 21
     }
@@ -200,17 +200,17 @@
     }
   },
   {
-    "id": "fp_trey-mcbride-ari",
-    "name": "Trey McBride ARI",
-    "pos": "TE2",
+    "id": "fp_chase-brown-cin",
+    "name": "Chase Brown CIN",
+    "pos": "RB12",
     "adp": {
       "fantasypros": 26
     }
   },
   {
-    "id": "fp_chase-brown-cin",
-    "name": "Chase Brown CIN",
-    "pos": "RB12",
+    "id": "fp_trey-mcbride-ari",
+    "name": "Trey McBride ARI",
+    "pos": "TE2",
     "adp": {
       "fantasypros": 27
     }
@@ -224,17 +224,17 @@
     }
   },
   {
-    "id": "fp_tee-higgins-cin",
-    "name": "Tee Higgins CIN",
-    "pos": "WR13",
+    "id": "fp_jayden-daniels-was",
+    "name": "Jayden Daniels WAS",
+    "pos": "QB3",
     "adp": {
       "fantasypros": 29
     }
   },
   {
-    "id": "fp_jayden-daniels-was",
-    "name": "Jayden Daniels WAS",
-    "pos": "QB3",
+    "id": "fp_tee-higgins-cin",
+    "name": "Tee Higgins CIN",
+    "pos": "WR13",
     "adp": {
       "fantasypros": 30
     }
@@ -256,17 +256,17 @@
     }
   },
   {
-    "id": "fp_jaxon-smith-njigba-sea",
-    "name": "Jaxon Smith-Njigba SEA",
-    "pos": "WR14",
+    "id": "fp_joe-burrow-cin",
+    "name": "Joe Burrow CIN",
+    "pos": "QB4",
     "adp": {
       "fantasypros": 33
     }
   },
   {
-    "id": "fp_joe-burrow-cin",
-    "name": "Joe Burrow CIN",
-    "pos": "QB4",
+    "id": "fp_jaxon-smith-njigba-sea",
+    "name": "Jaxon Smith-Njigba SEA",
+    "pos": "WR14",
     "adp": {
       "fantasypros": 34
     }
@@ -280,17 +280,17 @@
     }
   },
   {
-    "id": "fp_garrett-wilson-nyj",
-    "name": "Garrett Wilson NYJ",
-    "pos": "WR15",
+    "id": "fp_alvin-kamara-no",
+    "name": "Alvin Kamara NO",
+    "pos": "RB15",
     "adp": {
       "fantasypros": 36
     }
   },
   {
-    "id": "fp_alvin-kamara-no",
-    "name": "Alvin Kamara NO",
-    "pos": "RB15",
+    "id": "fp_garrett-wilson-nyj",
+    "name": "Garrett Wilson NYJ",
+    "pos": "WR15",
     "adp": {
       "fantasypros": 37
     }
@@ -336,17 +336,17 @@
     }
   },
   {
-    "id": "fp_marvin-harrison-jr-ari",
-    "name": "Marvin Harrison Jr. ARI",
-    "pos": "WR19",
+    "id": "fp_omarion-hampton-lac",
+    "name": "Omarion Hampton LAC",
+    "pos": "RB17",
     "adp": {
       "fantasypros": 43
     }
   },
   {
-    "id": "fp_omarion-hampton-lac",
-    "name": "Omarion Hampton LAC",
-    "pos": "RB17",
+    "id": "fp_marvin-harrison-jr-ari",
+    "name": "Marvin Harrison Jr. ARI",
+    "pos": "WR19",
     "adp": {
       "fantasypros": 44
     }
@@ -384,25 +384,25 @@
     }
   },
   {
-    "id": "fp_rashee-rice-kc",
-    "name": "Rashee Rice KC",
-    "pos": "WR22",
-    "adp": {
-      "fantasypros": 49
-    }
-  },
-  {
     "id": "fp_sam-laporta-det",
     "name": "Sam LaPorta DET",
     "pos": "TE4",
     "adp": {
-      "fantasypros": 50
+      "fantasypros": 49
     }
   },
   {
     "id": "fp_patrick-mahomes-ii-kc",
     "name": "Patrick Mahomes II KC",
     "pos": "QB6",
+    "adp": {
+      "fantasypros": 50
+    }
+  },
+  {
+    "id": "fp_rashee-rice-kc",
+    "name": "Rashee Rice KC",
+    "pos": "WR22",
     "adp": {
       "fantasypros": 51
     }
@@ -456,9 +456,9 @@
     }
   },
   {
-    "id": "fp_travis-kelce-kc",
-    "name": "Travis Kelce KC",
-    "pos": "TE5",
+    "id": "fp_treveyon-henderson-ne",
+    "name": "TreVeyon Henderson NE",
+    "pos": "RB23",
     "adp": {
       "fantasypros": 58
     }
@@ -472,11 +472,19 @@
     }
   },
   {
-    "id": "fp_treveyon-henderson-ne",
-    "name": "TreVeyon Henderson NE",
-    "pos": "RB23",
+    "id": "fp_travis-kelce-kc",
+    "name": "Travis Kelce KC",
+    "pos": "TE5",
     "adp": {
       "fantasypros": 60
+    }
+  },
+  {
+    "id": "fp_baker-mayfield-tb",
+    "name": "Baker Mayfield TB",
+    "pos": "QB7",
+    "adp": {
+      "fantasypros": 61
     }
   },
   {
@@ -484,21 +492,13 @@
     "name": "Jameson Williams DET",
     "pos": "WR27",
     "adp": {
-      "fantasypros": 61
+      "fantasypros": 62
     }
   },
   {
     "id": "fp_t-j-hockenson-min",
     "name": "T.J. Hockenson MIN",
     "pos": "TE6",
-    "adp": {
-      "fantasypros": 62
-    }
-  },
-  {
-    "id": "fp_baker-mayfield-tb",
-    "name": "Baker Mayfield TB",
-    "pos": "QB7",
     "adp": {
       "fantasypros": 63
     }
@@ -512,41 +512,41 @@
     }
   },
   {
-    "id": "fp_rj-harvey-den",
-    "name": "RJ Harvey DEN",
-    "pos": "RB25",
+    "id": "fp_travis-hunter-jac",
+    "name": "Travis Hunter JAC",
+    "pos": "WR28",
     "adp": {
       "fantasypros": 65
     }
   },
   {
-    "id": "fp_travis-hunter-jac",
-    "name": "Travis Hunter JAC",
-    "pos": "WR28",
+    "id": "fp_rj-harvey-den",
+    "name": "RJ Harvey DEN",
+    "pos": "RB25",
     "adp": {
       "fantasypros": 66
     }
   },
   {
-    "id": "fp_george-pickens-dal",
-    "name": "George Pickens DAL",
+    "id": "fp_tetairoa-mcmillan-car",
+    "name": "Tetairoa McMillan CAR",
     "pos": "WR29",
     "adp": {
       "fantasypros": 67
     }
   },
   {
-    "id": "fp_isiah-pacheco-kc",
-    "name": "Isiah Pacheco KC",
-    "pos": "RB26",
+    "id": "fp_george-pickens-dal",
+    "name": "George Pickens DAL",
+    "pos": "WR30",
     "adp": {
       "fantasypros": 68
     }
   },
   {
-    "id": "fp_tetairoa-mcmillan-car",
-    "name": "Tetairoa McMillan CAR",
-    "pos": "WR30",
+    "id": "fp_isiah-pacheco-kc",
+    "name": "Isiah Pacheco KC",
+    "pos": "RB26",
     "adp": {
       "fantasypros": 69
     }
@@ -608,19 +608,11 @@
     }
   },
   {
-    "id": "fp_chris-olave-no",
-    "name": "Chris Olave NO",
+    "id": "fp_chris-godwin-tb",
+    "name": "Chris Godwin TB",
     "pos": "WR34",
     "adp": {
       "fantasypros": 77
-    }
-  },
-  {
-    "id": "fp_chris-godwin-tb",
-    "name": "Chris Godwin TB",
-    "pos": "WR35",
-    "adp": {
-      "fantasypros": 78
     }
   },
   {
@@ -628,23 +620,15 @@
     "name": "Brian Robinson Jr. WAS",
     "pos": "RB29",
     "adp": {
+      "fantasypros": 78
+    }
+  },
+  {
+    "id": "fp_chris-olave-no",
+    "name": "Chris Olave NO",
+    "pos": "WR35",
+    "adp": {
       "fantasypros": 79
-    }
-  },
-  {
-    "id": "fp_rome-odunze-chi",
-    "name": "Rome Odunze CHI",
-    "pos": "WR36",
-    "adp": {
-      "fantasypros": 80
-    }
-  },
-  {
-    "id": "fp_jordan-addison-min",
-    "name": "Jordan Addison MIN",
-    "pos": "WR37",
-    "adp": {
-      "fantasypros": 81
     }
   },
   {
@@ -652,7 +636,15 @@
     "name": "Evan Engram DEN",
     "pos": "TE8",
     "adp": {
-      "fantasypros": 82
+      "fantasypros": 80
+    }
+  },
+  {
+    "id": "fp_rome-odunze-chi",
+    "name": "Rome Odunze CHI",
+    "pos": "WR36",
+    "adp": {
+      "fantasypros": 81
     }
   },
   {
@@ -660,13 +652,21 @@
     "name": "Kyler Murray ARI",
     "pos": "QB9",
     "adp": {
-      "fantasypros": 83
+      "fantasypros": 82
     }
   },
   {
     "id": "fp_david-njoku-cle",
     "name": "David Njoku CLE",
     "pos": "TE9",
+    "adp": {
+      "fantasypros": 83
+    }
+  },
+  {
+    "id": "fp_stefon-diggs-ne",
+    "name": "Stefon Diggs NE",
+    "pos": "WR37",
     "adp": {
       "fantasypros": 84
     }
@@ -680,16 +680,16 @@
     }
   },
   {
-    "id": "fp_deebo-samuel-sr-was",
-    "name": "Deebo Samuel Sr. WAS",
+    "id": "fp_jordan-addison-min",
+    "name": "Jordan Addison MIN",
     "pos": "WR39",
     "adp": {
       "fantasypros": 86
     }
   },
   {
-    "id": "fp_stefon-diggs-ne",
-    "name": "Stefon Diggs NE",
+    "id": "fp_deebo-samuel-sr-was",
+    "name": "Deebo Samuel Sr. WAS",
     "pos": "WR40",
     "adp": {
       "fantasypros": 87
@@ -704,17 +704,17 @@
     }
   },
   {
-    "id": "fp_jakobi-meyers-lv",
-    "name": "Jakobi Meyers LV",
-    "pos": "WR41",
+    "id": "fp_jaylen-warren-pit",
+    "name": "Jaylen Warren PIT",
+    "pos": "RB31",
     "adp": {
       "fantasypros": 89
     }
   },
   {
-    "id": "fp_jaylen-warren-pit",
-    "name": "Jaylen Warren PIT",
-    "pos": "RB31",
+    "id": "fp_jakobi-meyers-lv",
+    "name": "Jakobi Meyers LV",
+    "pos": "WR41",
     "adp": {
       "fantasypros": 90
     }
@@ -736,33 +736,33 @@
     }
   },
   {
-    "id": "fp_khalil-shakir-buf",
-    "name": "Khalil Shakir BUF",
-    "pos": "WR42",
+    "id": "fp_travis-etienne-jr-jac",
+    "name": "Travis Etienne Jr. JAC",
+    "pos": "RB34",
     "adp": {
       "fantasypros": 93
     }
   },
   {
-    "id": "fp_travis-etienne-jr-jac",
-    "name": "Travis Etienne Jr. JAC",
-    "pos": "RB34",
+    "id": "fp_khalil-shakir-buf",
+    "name": "Khalil Shakir BUF",
+    "pos": "WR42",
     "adp": {
       "fantasypros": 94
     }
   },
   {
-    "id": "fp_jauan-jennings-sf",
-    "name": "Jauan Jennings SF",
+    "id": "fp_matthew-golden-gb",
+    "name": "Matthew Golden GB",
     "pos": "WR43",
     "adp": {
       "fantasypros": 95
     }
   },
   {
-    "id": "fp_matthew-golden-gb",
-    "name": "Matthew Golden GB",
-    "pos": "WR44",
+    "id": "fp_brock-purdy-sf",
+    "name": "Brock Purdy SF",
+    "pos": "QB10",
     "adp": {
       "fantasypros": 96
     }
@@ -770,15 +770,15 @@
   {
     "id": "fp_jared-goff-det",
     "name": "Jared Goff DET",
-    "pos": "QB10",
+    "pos": "QB11",
     "adp": {
       "fantasypros": 97
     }
   },
   {
-    "id": "fp_brock-purdy-sf",
-    "name": "Brock Purdy SF",
-    "pos": "QB11",
+    "id": "fp_jauan-jennings-sf",
+    "name": "Jauan Jennings SF",
+    "pos": "WR44",
     "adp": {
       "fantasypros": 98
     }
@@ -800,17 +800,17 @@
     }
   },
   {
-    "id": "fp_ricky-pearsall-sf",
-    "name": "Ricky Pearsall SF",
-    "pos": "WR45",
+    "id": "fp_dak-prescott-dal",
+    "name": "Dak Prescott DAL",
+    "pos": "QB12",
     "adp": {
       "fantasypros": 101
     }
   },
   {
-    "id": "fp_dak-prescott-dal",
-    "name": "Dak Prescott DAL",
-    "pos": "QB12",
+    "id": "fp_ricky-pearsall-sf",
+    "name": "Ricky Pearsall SF",
+    "pos": "WR45",
     "adp": {
       "fantasypros": 102
     }
@@ -832,11 +832,19 @@
     }
   },
   {
+    "id": "fp_tyler-warren-ind",
+    "name": "Tyler Warren IND",
+    "pos": "TE10",
+    "adp": {
+      "fantasypros": 105
+    }
+  },
+  {
     "id": "fp_rhamondre-stevenson-ne",
     "name": "Rhamondre Stevenson NE",
     "pos": "RB36",
     "adp": {
-      "fantasypros": 105
+      "fantasypros": 106
     }
   },
   {
@@ -844,7 +852,7 @@
     "name": "Jayden Reed GB",
     "pos": "WR46",
     "adp": {
-      "fantasypros": 106
+      "fantasypros": 107
     }
   },
   {
@@ -852,37 +860,29 @@
     "name": "Justin Herbert LAC",
     "pos": "QB14",
     "adp": {
-      "fantasypros": 107
-    }
-  },
-  {
-    "id": "fp_tyler-warren-ind",
-    "name": "Tyler Warren IND",
-    "pos": "TE10",
-    "adp": {
       "fantasypros": 108
     }
   },
   {
-    "id": "fp_colston-loveland-chi",
-    "name": "Colston Loveland CHI",
+    "id": "fp_tucker-kraft-gb",
+    "name": "Tucker Kraft GB",
     "pos": "TE11",
     "adp": {
       "fantasypros": 109
     }
   },
   {
-    "id": "fp_tucker-kraft-gb",
-    "name": "Tucker Kraft GB",
-    "pos": "TE12",
+    "id": "fp_philadelphia-eagles-dst",
+    "name": "Philadelphia Eagles DST",
+    "pos": "DST2",
     "adp": {
       "fantasypros": 110
     }
   },
   {
-    "id": "fp_caleb-williams-chi",
-    "name": "Caleb Williams CHI",
-    "pos": "QB15",
+    "id": "fp_colston-loveland-chi",
+    "name": "Colston Loveland CHI",
+    "pos": "TE12",
     "adp": {
       "fantasypros": 111
     }
@@ -896,33 +896,33 @@
     }
   },
   {
-    "id": "fp_philadelphia-eagles-dst",
-    "name": "Philadelphia Eagles DST",
-    "pos": "DST2",
+    "id": "fp_caleb-williams-chi",
+    "name": "Caleb Williams CHI",
+    "pos": "QB15",
     "adp": {
       "fantasypros": 113
     }
   },
   {
-    "id": "fp_najee-harris-lac",
-    "name": "Najee Harris LAC",
+    "id": "fp_jordan-mason-min",
+    "name": "Jordan Mason MIN",
     "pos": "RB38",
     "adp": {
       "fantasypros": 114
     }
   },
   {
-    "id": "fp_jonnu-smith-pit",
-    "name": "Jonnu Smith PIT",
-    "pos": "TE13",
+    "id": "fp_najee-harris-lac",
+    "name": "Najee Harris LAC",
+    "pos": "RB39",
     "adp": {
       "fantasypros": 115
     }
   },
   {
-    "id": "fp_jordan-mason-min",
-    "name": "Jordan Mason MIN",
-    "pos": "RB39",
+    "id": "fp_jonnu-smith-pit",
+    "name": "Jonnu Smith PIT",
+    "pos": "TE13",
     "adp": {
       "fantasypros": 116
     }
@@ -936,9 +936,9 @@
     }
   },
   {
-    "id": "fp_zach-charbonnet-sea",
-    "name": "Zach Charbonnet SEA",
-    "pos": "RB40",
+    "id": "fp_brandon-aiyuk-sf",
+    "name": "Brandon Aiyuk SF",
+    "pos": "WR48",
     "adp": {
       "fantasypros": 118
     }
@@ -952,9 +952,9 @@
     }
   },
   {
-    "id": "fp_brandon-aiyuk-sf",
-    "name": "Brandon Aiyuk SF",
-    "pos": "WR48",
+    "id": "fp_zach-charbonnet-sea",
+    "name": "Zach Charbonnet SEA",
+    "pos": "RB40",
     "adp": {
       "fantasypros": 120
     }
@@ -976,9 +976,9 @@
     }
   },
   {
-    "id": "fp_michael-pittman-jr-ind",
-    "name": "Michael Pittman Jr. IND",
-    "pos": "WR51",
+    "id": "fp_baltimore-ravens-dst",
+    "name": "Baltimore Ravens DST",
+    "pos": "DST3",
     "adp": {
       "fantasypros": 123
     }
@@ -986,25 +986,17 @@
   {
     "id": "fp_pittsburgh-steelers-dst",
     "name": "Pittsburgh Steelers DST",
-    "pos": "DST3",
+    "pos": "DST4",
     "adp": {
       "fantasypros": 124
     }
   },
   {
-    "id": "fp_jake-bates-det",
-    "name": "Jake Bates DET",
-    "pos": "K3",
+    "id": "fp_michael-pittman-jr-ind",
+    "name": "Michael Pittman Jr. IND",
+    "pos": "WR51",
     "adp": {
       "fantasypros": 125
-    }
-  },
-  {
-    "id": "fp_darnell-mooney-atl",
-    "name": "Darnell Mooney ATL",
-    "pos": "WR52",
-    "adp": {
-      "fantasypros": 126
     }
   },
   {
@@ -1012,23 +1004,15 @@
     "name": "Jordan Love GB",
     "pos": "QB16",
     "adp": {
+      "fantasypros": 126
+    }
+  },
+  {
+    "id": "fp_jake-bates-det",
+    "name": "Jake Bates DET",
+    "pos": "K3",
+    "adp": {
       "fantasypros": 127
-    }
-  },
-  {
-    "id": "fp_baltimore-ravens-dst",
-    "name": "Baltimore Ravens DST",
-    "pos": "DST4",
-    "adp": {
-      "fantasypros": 128
-    }
-  },
-  {
-    "id": "fp_rachaad-white-tb",
-    "name": "Rachaad White TB",
-    "pos": "RB41",
-    "adp": {
-      "fantasypros": 129
     }
   },
   {
@@ -1036,15 +1020,15 @@
     "name": "Dallas Goedert PHI",
     "pos": "TE14",
     "adp": {
-      "fantasypros": 130
+      "fantasypros": 128
     }
   },
   {
-    "id": "fp_tyjae-spears-ten",
-    "name": "Tyjae Spears TEN",
-    "pos": "RB42",
+    "id": "fp_darnell-mooney-atl",
+    "name": "Darnell Mooney ATL",
+    "pos": "WR52",
     "adp": {
-      "fantasypros": 131
+      "fantasypros": 129
     }
   },
   {
@@ -1052,7 +1036,15 @@
     "name": "Dalton Kincaid BUF",
     "pos": "TE15",
     "adp": {
-      "fantasypros": 132
+      "fantasypros": 130
+    }
+  },
+  {
+    "id": "fp_rachaad-white-tb",
+    "name": "Rachaad White TB",
+    "pos": "RB41",
+    "adp": {
+      "fantasypros": 131
     }
   },
   {
@@ -1060,15 +1052,7 @@
     "name": "Buffalo Bills DST",
     "pos": "DST5",
     "adp": {
-      "fantasypros": 133
-    }
-  },
-  {
-    "id": "fp_jake-ferguson-dal",
-    "name": "Jake Ferguson DAL",
-    "pos": "TE16",
-    "adp": {
-      "fantasypros": 134
+      "fantasypros": 132
     }
   },
   {
@@ -1076,39 +1060,31 @@
     "name": "C.J. Stroud HOU",
     "pos": "QB17",
     "adp": {
-      "fantasypros": 135
+      "fantasypros": 133
     }
   },
   {
     "id": "fp_kyle-pitts-sr-atl",
     "name": "Kyle Pitts Sr. ATL",
+    "pos": "TE16",
+    "adp": {
+      "fantasypros": 134
+    }
+  },
+  {
+    "id": "fp_jake-ferguson-dal",
+    "name": "Jake Ferguson DAL",
     "pos": "TE17",
     "adp": {
+      "fantasypros": 135
+    }
+  },
+  {
+    "id": "fp_tyjae-spears-ten",
+    "name": "Tyjae Spears TEN",
+    "pos": "RB42",
+    "adp": {
       "fantasypros": 136
-    }
-  },
-  {
-    "id": "fp_austin-ekeler-was",
-    "name": "Austin Ekeler WAS",
-    "pos": "RB43",
-    "adp": {
-      "fantasypros": 137
-    }
-  },
-  {
-    "id": "fp_tank-bigsby-jac",
-    "name": "Tank Bigsby JAC",
-    "pos": "RB44",
-    "adp": {
-      "fantasypros": 138
-    }
-  },
-  {
-    "id": "fp_jaydon-blue-dal",
-    "name": "Jaydon Blue DAL",
-    "pos": "RB45",
-    "adp": {
-      "fantasypros": 139
     }
   },
   {
@@ -1116,7 +1092,15 @@
     "name": "Houston Texans DST",
     "pos": "DST6",
     "adp": {
-      "fantasypros": 140
+      "fantasypros": 137
+    }
+  },
+  {
+    "id": "fp_austin-ekeler-was",
+    "name": "Austin Ekeler WAS",
+    "pos": "RB43",
+    "adp": {
+      "fantasypros": 138
     }
   },
   {
@@ -1124,31 +1108,7 @@
     "name": "Chase McLaughlin TB",
     "pos": "K4",
     "adp": {
-      "fantasypros": 141
-    }
-  },
-  {
-    "id": "fp_drake-maye-ne",
-    "name": "Drake Maye NE",
-    "pos": "QB18",
-    "adp": {
-      "fantasypros": 142
-    }
-  },
-  {
-    "id": "fp_j-j-mccarthy-min",
-    "name": "J.J. McCarthy MIN",
-    "pos": "QB19",
-    "adp": {
-      "fantasypros": 143
-    }
-  },
-  {
-    "id": "fp_jayden-higgins-hou",
-    "name": "Jayden Higgins HOU",
-    "pos": "WR53",
-    "adp": {
-      "fantasypros": 144
+      "fantasypros": 139
     }
   },
   {
@@ -1156,15 +1116,47 @@
     "name": "Minnesota Vikings DST",
     "pos": "DST7",
     "adp": {
-      "fantasypros": 145
+      "fantasypros": 140
     }
   },
   {
-    "id": "fp_tre-harris-lac",
-    "name": "Tre' Harris LAC",
-    "pos": "WR54",
+    "id": "fp_drake-maye-ne",
+    "name": "Drake Maye NE",
+    "pos": "QB18",
     "adp": {
-      "fantasypros": 146
+      "fantasypros": 141
+    }
+  },
+  {
+    "id": "fp_tank-bigsby-jac",
+    "name": "Tank Bigsby JAC",
+    "pos": "RB44",
+    "adp": {
+      "fantasypros": 142
+    }
+  },
+  {
+    "id": "fp_jaydon-blue-dal",
+    "name": "Jaydon Blue DAL",
+    "pos": "RB45",
+    "adp": {
+      "fantasypros": 143
+    }
+  },
+  {
+    "id": "fp_j-j-mccarthy-min",
+    "name": "J.J. McCarthy MIN",
+    "pos": "QB19",
+    "adp": {
+      "fantasypros": 144
+    }
+  },
+  {
+    "id": "fp_jayden-higgins-hou",
+    "name": "Jayden Higgins HOU",
+    "pos": "WR53",
+    "adp": {
+      "fantasypros": 145
     }
   },
   {
@@ -1172,31 +1164,7 @@
     "name": "Chris Boswell PIT",
     "pos": "K5",
     "adp": {
-      "fantasypros": 147
-    }
-  },
-  {
-    "id": "fp_rashid-shaheed-no",
-    "name": "Rashid Shaheed NO",
-    "pos": "WR55",
-    "adp": {
-      "fantasypros": 148
-    }
-  },
-  {
-    "id": "fp_nick-chubb-hou",
-    "name": "Nick Chubb HOU",
-    "pos": "RB46",
-    "adp": {
-      "fantasypros": 149
-    }
-  },
-  {
-    "id": "fp_isaac-guerendo-sf",
-    "name": "Isaac Guerendo SF",
-    "pos": "RB47",
-    "adp": {
-      "fantasypros": 150
+      "fantasypros": 146
     }
   },
   {
@@ -1204,15 +1172,39 @@
     "name": "Zach Ertz WAS",
     "pos": "TE18",
     "adp": {
-      "fantasypros": 151
+      "fantasypros": 147
     }
   },
   {
-    "id": "fp_marvin-mims-jr-den",
-    "name": "Marvin Mims Jr. DEN",
-    "pos": "WR56",
+    "id": "fp_nick-chubb-hou",
+    "name": "Nick Chubb HOU",
+    "pos": "RB46",
     "adp": {
-      "fantasypros": 152
+      "fantasypros": 148
+    }
+  },
+  {
+    "id": "fp_tre-harris-lac",
+    "name": "Tre' Harris LAC",
+    "pos": "WR54",
+    "adp": {
+      "fantasypros": 149
+    }
+  },
+  {
+    "id": "fp_rashid-shaheed-no",
+    "name": "Rashid Shaheed NO",
+    "pos": "WR55",
+    "adp": {
+      "fantasypros": 150
+    }
+  },
+  {
+    "id": "fp_isaac-guerendo-sf",
+    "name": "Isaac Guerendo SF",
+    "pos": "RB47",
+    "adp": {
+      "fantasypros": 151
     }
   },
   {
@@ -1220,63 +1212,47 @@
     "name": "Ka'imi Fairbairn HOU",
     "pos": "K6",
     "adp": {
+      "fantasypros": 152
+    }
+  },
+  {
+    "id": "fp_marvin-mims-jr-den",
+    "name": "Marvin Mims Jr. DEN",
+    "pos": "WR56",
+    "adp": {
       "fantasypros": 153
-    }
-  },
-  {
-    "id": "fp_trey-benson-ari",
-    "name": "Trey Benson ARI",
-    "pos": "RB48",
-    "adp": {
-      "fantasypros": 154
-    }
-  },
-  {
-    "id": "fp_luther-burden-iii-chi",
-    "name": "Luther Burden III CHI",
-    "pos": "WR57",
-    "adp": {
-      "fantasypros": 155
-    }
-  },
-  {
-    "id": "fp_harrison-butker-kc",
-    "name": "Harrison Butker KC",
-    "pos": "K7",
-    "adp": {
-      "fantasypros": 156
     }
   },
   {
     "id": "fp_jake-elliott-phi",
     "name": "Jake Elliott PHI",
+    "pos": "K7",
+    "adp": {
+      "fantasypros": 154
+    }
+  },
+  {
+    "id": "fp_harrison-butker-kc",
+    "name": "Harrison Butker KC",
     "pos": "K8",
     "adp": {
-      "fantasypros": 157
+      "fantasypros": 155
     }
   },
   {
     "id": "fp_jerome-ford-cle",
     "name": "Jerome Ford CLE",
+    "pos": "RB48",
+    "adp": {
+      "fantasypros": 156
+    }
+  },
+  {
+    "id": "fp_trey-benson-ari",
+    "name": "Trey Benson ARI",
     "pos": "RB49",
     "adp": {
-      "fantasypros": 158
-    }
-  },
-  {
-    "id": "fp_tyler-allgeier-atl",
-    "name": "Tyler Allgeier ATL",
-    "pos": "RB50",
-    "adp": {
-      "fantasypros": 159
-    }
-  },
-  {
-    "id": "fp_bhayshul-tuten-jac",
-    "name": "Bhayshul Tuten JAC",
-    "pos": "RB51",
-    "adp": {
-      "fantasypros": 160
+      "fantasypros": 157
     }
   },
   {
@@ -1284,31 +1260,15 @@
     "name": "Detroit Lions DST",
     "pos": "DST8",
     "adp": {
-      "fantasypros": 161
+      "fantasypros": 158
     }
   },
   {
-    "id": "fp_tua-tagovailoa-mia",
-    "name": "Tua Tagovailoa MIA",
-    "pos": "QB20",
+    "id": "fp_bhayshul-tuten-jac",
+    "name": "Bhayshul Tuten JAC",
+    "pos": "RB50",
     "adp": {
-      "fantasypros": 162
-    }
-  },
-  {
-    "id": "fp_marquise-brown-kc",
-    "name": "Marquise Brown KC",
-    "pos": "WR58",
-    "adp": {
-      "fantasypros": 163
-    }
-  },
-  {
-    "id": "fp_jack-bech-lv",
-    "name": "Jack Bech LV",
-    "pos": "WR59",
-    "adp": {
-      "fantasypros": 164
+      "fantasypros": 159
     }
   },
   {
@@ -1316,47 +1276,63 @@
     "name": "San Francisco 49ers DST",
     "pos": "DST9",
     "adp": {
-      "fantasypros": 165
-    }
-  },
-  {
-    "id": "fp_trevor-lawrence-jac",
-    "name": "Trevor Lawrence JAC",
-    "pos": "QB21",
-    "adp": {
-      "fantasypros": 166
-    }
-  },
-  {
-    "id": "fp_christian-kirk-hou",
-    "name": "Christian Kirk HOU",
-    "pos": "WR60",
-    "adp": {
-      "fantasypros": 167
-    }
-  },
-  {
-    "id": "fp_ray-davis-buf",
-    "name": "Ray Davis BUF",
-    "pos": "RB52",
-    "adp": {
-      "fantasypros": 168
-    }
-  },
-  {
-    "id": "fp_isaiah-likely-bal",
-    "name": "Isaiah Likely BAL",
-    "pos": "TE19",
-    "adp": {
-      "fantasypros": 169
+      "fantasypros": 160
     }
   },
   {
     "id": "fp_hunter-henry-ne",
     "name": "Hunter Henry NE",
-    "pos": "TE20",
+    "pos": "TE19",
     "adp": {
-      "fantasypros": 170
+      "fantasypros": 161
+    }
+  },
+  {
+    "id": "fp_tyler-allgeier-atl",
+    "name": "Tyler Allgeier ATL",
+    "pos": "RB51",
+    "adp": {
+      "fantasypros": 162
+    }
+  },
+  {
+    "id": "fp_trevor-lawrence-jac",
+    "name": "Trevor Lawrence JAC",
+    "pos": "QB20",
+    "adp": {
+      "fantasypros": 163
+    }
+  },
+  {
+    "id": "fp_tua-tagovailoa-mia",
+    "name": "Tua Tagovailoa MIA",
+    "pos": "QB21",
+    "adp": {
+      "fantasypros": 164
+    }
+  },
+  {
+    "id": "fp_marquise-brown-kc",
+    "name": "Marquise Brown KC",
+    "pos": "WR57",
+    "adp": {
+      "fantasypros": 165
+    }
+  },
+  {
+    "id": "fp_luther-burden-iii-chi",
+    "name": "Luther Burden III CHI",
+    "pos": "WR58",
+    "adp": {
+      "fantasypros": 166
+    }
+  },
+  {
+    "id": "fp_rashod-bateman-bal",
+    "name": "Rashod Bateman BAL",
+    "pos": "WR59",
+    "adp": {
+      "fantasypros": 167
     }
   },
   {
@@ -1364,15 +1340,7 @@
     "name": "Cameron Ward TEN",
     "pos": "QB22",
     "adp": {
-      "fantasypros": 171
-    }
-  },
-  {
-    "id": "fp_rashod-bateman-bal",
-    "name": "Rashod Bateman BAL",
-    "pos": "WR61",
-    "adp": {
-      "fantasypros": 172
+      "fantasypros": 168
     }
   },
   {
@@ -1380,23 +1348,39 @@
     "name": "Tyler Bass BUF",
     "pos": "K9",
     "adp": {
+      "fantasypros": 169
+    }
+  },
+  {
+    "id": "fp_christian-kirk-hou",
+    "name": "Christian Kirk HOU",
+    "pos": "WR60",
+    "adp": {
+      "fantasypros": 170
+    }
+  },
+  {
+    "id": "fp_ray-davis-buf",
+    "name": "Ray Davis BUF",
+    "pos": "RB52",
+    "adp": {
+      "fantasypros": 171
+    }
+  },
+  {
+    "id": "fp_jack-bech-lv",
+    "name": "Jack Bech LV",
+    "pos": "WR61",
+    "adp": {
+      "fantasypros": 172
+    }
+  },
+  {
+    "id": "fp_isaiah-likely-bal",
+    "name": "Isaiah Likely BAL",
+    "pos": "TE20",
+    "adp": {
       "fantasypros": 173
-    }
-  },
-  {
-    "id": "fp_matthew-stafford-lar",
-    "name": "Matthew Stafford LAR",
-    "pos": "QB23",
-    "adp": {
-      "fantasypros": 174
-    }
-  },
-  {
-    "id": "fp_michael-penix-jr-atl",
-    "name": "Michael Penix Jr. ATL",
-    "pos": "QB24",
-    "adp": {
-      "fantasypros": 175
     }
   },
   {
@@ -1404,39 +1388,63 @@
     "name": "Kansas City Chiefs DST",
     "pos": "DST10",
     "adp": {
+      "fantasypros": 174
+    }
+  },
+  {
+    "id": "fp_matthew-stafford-lar",
+    "name": "Matthew Stafford LAR",
+    "pos": "QB23",
+    "adp": {
+      "fantasypros": 175
+    }
+  },
+  {
+    "id": "fp_michael-penix-jr-atl",
+    "name": "Michael Penix Jr. ATL",
+    "pos": "QB24",
+    "adp": {
       "fantasypros": 176
     }
   },
   {
-    "id": "fp_dylan-sampson-cle",
-    "name": "Dylan Sampson CLE",
+    "id": "fp_braelon-allen-nyj",
+    "name": "Braelon Allen NYJ",
     "pos": "RB53",
     "adp": {
       "fantasypros": 177
     }
   },
   {
-    "id": "fp_braelon-allen-nyj",
-    "name": "Braelon Allen NYJ",
-    "pos": "RB54",
+    "id": "fp_keenan-allen-lac",
+    "name": "Keenan Allen LAC",
+    "pos": "WR62",
     "adp": {
       "fantasypros": 178
     }
   },
   {
-    "id": "fp_adam-thielen-car",
-    "name": "Adam Thielen CAR",
-    "pos": "WR62",
+    "id": "fp_dylan-sampson-cle",
+    "name": "Dylan Sampson CLE",
+    "pos": "RB54",
     "adp": {
       "fantasypros": 179
     }
   },
   {
-    "id": "fp_xavier-legette-car",
-    "name": "Xavier Legette CAR",
+    "id": "fp_adam-thielen-car",
+    "name": "Adam Thielen CAR",
     "pos": "WR63",
     "adp": {
       "fantasypros": 180
+    }
+  },
+  {
+    "id": "fp_xavier-legette-car",
+    "name": "Xavier Legette CAR",
+    "pos": "WR64",
+    "adp": {
+      "fantasypros": 181
     }
   },
   {
@@ -1444,23 +1452,7 @@
     "name": "Jason Sanders MIA",
     "pos": "K10",
     "adp": {
-      "fantasypros": 181
-    }
-  },
-  {
-    "id": "fp_kyle-williams-ne",
-    "name": "Kyle Williams NE",
-    "pos": "WR64",
-    "adp": {
       "fantasypros": 182
-    }
-  },
-  {
-    "id": "fp_jaylen-wright-mia",
-    "name": "Jaylen Wright MIA",
-    "pos": "RB55",
-    "adp": {
-      "fantasypros": 183
     }
   },
   {
@@ -1468,39 +1460,39 @@
     "name": "Wil Lutz DEN",
     "pos": "K11",
     "adp": {
+      "fantasypros": 183
+    }
+  },
+  {
+    "id": "fp_jaylen-wright-mia",
+    "name": "Jaylen Wright MIA",
+    "pos": "RB55",
+    "adp": {
       "fantasypros": 184
     }
   },
   {
-    "id": "fp_younghoe-koo-atl",
-    "name": "Younghoe Koo ATL",
-    "pos": "K12",
+    "id": "fp_bryce-young-car",
+    "name": "Bryce Young CAR",
+    "pos": "QB25",
     "adp": {
       "fantasypros": 185
     }
   },
   {
-    "id": "fp_green-bay-packers-dst",
-    "name": "Green Bay Packers DST",
+    "id": "fp_washington-commanders-dst",
+    "name": "Washington Commanders DST",
     "pos": "DST11",
     "adp": {
       "fantasypros": 186
     }
   },
   {
-    "id": "fp_washington-commanders-dst",
-    "name": "Washington Commanders DST",
+    "id": "fp_green-bay-packers-dst",
+    "name": "Green Bay Packers DST",
     "pos": "DST12",
     "adp": {
       "fantasypros": 187
-    }
-  },
-  {
-    "id": "fp_kareem-hunt-kc",
-    "name": "Kareem Hunt KC",
-    "pos": "RB56",
-    "adp": {
-      "fantasypros": 188
     }
   },
   {
@@ -1508,7 +1500,7 @@
     "name": "Darren Waller MIA",
     "pos": "TE21",
     "adp": {
-      "fantasypros": 189
+      "fantasypros": 188
     }
   },
   {
@@ -1516,15 +1508,31 @@
     "name": "Dallas Cowboys DST",
     "pos": "DST13",
     "adp": {
+      "fantasypros": 189
+    }
+  },
+  {
+    "id": "fp_kyle-williams-ne",
+    "name": "Kyle Williams NE",
+    "pos": "WR65",
+    "adp": {
       "fantasypros": 190
     }
   },
   {
-    "id": "fp_keenan-allen-lac",
-    "name": "Keenan Allen LAC",
-    "pos": "WR65",
+    "id": "fp_kareem-hunt-kc",
+    "name": "Kareem Hunt KC",
+    "pos": "RB56",
     "adp": {
       "fantasypros": 191
+    }
+  },
+  {
+    "id": "fp_younghoe-koo-atl",
+    "name": "Younghoe Koo ATL",
+    "pos": "K12",
+    "adp": {
+      "fantasypros": 192
     }
   },
   {
@@ -1532,7 +1540,15 @@
     "name": "New York Giants DST",
     "pos": "DST14",
     "adp": {
-      "fantasypros": 192
+      "fantasypros": 193
+    }
+  },
+  {
+    "id": "fp_new-england-patriots-dst",
+    "name": "New England Patriots DST",
+    "pos": "DST15",
+    "adp": {
+      "fantasypros": 194
     }
   },
   {
@@ -1540,7 +1556,7 @@
     "name": "Jalen McMillan TB",
     "pos": "WR66",
     "adp": {
-      "fantasypros": 193
+      "fantasypros": 195
     }
   },
   {
@@ -1548,7 +1564,7 @@
     "name": "Evan McPherson CIN",
     "pos": "K13",
     "adp": {
-      "fantasypros": 194
+      "fantasypros": 196
     }
   },
   {
@@ -1556,15 +1572,7 @@
     "name": "Pat Freiermuth PIT",
     "pos": "TE22",
     "adp": {
-      "fantasypros": 195
-    }
-  },
-  {
-    "id": "fp_quentin-johnston-lac",
-    "name": "Quentin Johnston LAC",
-    "pos": "WR67",
-    "adp": {
-      "fantasypros": 196
+      "fantasypros": 197
     }
   },
   {
@@ -1572,175 +1580,15 @@
     "name": "Brenton Strange JAC",
     "pos": "TE23",
     "adp": {
-      "fantasypros": 197
-    }
-  },
-  {
-    "id": "fp_anthony-richardson-sr-ind",
-    "name": "Anthony Richardson Sr. IND",
-    "pos": "QB25",
-    "adp": {
       "fantasypros": 198
     }
   },
   {
-    "id": "fp_cedric-tillman-cle",
-    "name": "Cedric Tillman CLE",
-    "pos": "WR68",
-    "adp": {
-      "fantasypros": 199
-    }
-  },
-  {
-    "id": "fp_wan-dale-robinson-nyg",
-    "name": "Wan'Dale Robinson NYG",
-    "pos": "WR69",
-    "adp": {
-      "fantasypros": 200
-    }
-  },
-  {
-    "id": "fp_los-angeles-chargers-dst",
-    "name": "Los Angeles Chargers DST",
-    "pos": "DST15",
-    "adp": {
-      "fantasypros": 201
-    }
-  },
-  {
-    "id": "fp_los-angeles-rams-dst",
-    "name": "Los Angeles Rams DST",
-    "pos": "DST16",
-    "adp": {
-      "fantasypros": 202
-    }
-  },
-  {
-    "id": "fp_new-york-jets-dst",
-    "name": "New York Jets DST",
-    "pos": "DST17",
-    "adp": {
-      "fantasypros": 203
-    }
-  },
-  {
-    "id": "fp_romeo-doubs-gb",
-    "name": "Romeo Doubs GB",
-    "pos": "WR70",
-    "adp": {
-      "fantasypros": 204
-    }
-  },
-  {
-    "id": "fp_geno-smith-lv",
-    "name": "Geno Smith LV",
+    "id": "fp_sam-darnold-sea",
+    "name": "Sam Darnold SEA",
     "pos": "QB26",
     "adp": {
-      "fantasypros": 205
-    }
-  },
-  {
-    "id": "fp_justice-hill-bal",
-    "name": "Justice Hill BAL",
-    "pos": "RB57",
-    "adp": {
-      "fantasypros": 206
-    }
-  },
-  {
-    "id": "fp_seattle-seahawks-dst",
-    "name": "Seattle Seahawks DST",
-    "pos": "DST18",
-    "adp": {
-      "fantasypros": 207
-    }
-  },
-  {
-    "id": "fp_rico-dowdle-car",
-    "name": "Rico Dowdle CAR",
-    "pos": "RB58",
-    "adp": {
-      "fantasypros": 208
-    }
-  },
-  {
-    "id": "fp_matt-gay-was",
-    "name": "Matt Gay WAS",
-    "pos": "K14",
-    "adp": {
-      "fantasypros": 209
-    }
-  },
-  {
-    "id": "fp_deandre-hopkins-bal",
-    "name": "DeAndre Hopkins BAL",
-    "pos": "WR71",
-    "adp": {
-      "fantasypros": 210
-    }
-  },
-  {
-    "id": "fp_bryce-young-car",
-    "name": "Bryce Young CAR",
-    "pos": "QB27",
-    "adp": {
-      "fantasypros": 211
-    }
-  },
-  {
-    "id": "fp_chicago-bears-dst",
-    "name": "Chicago Bears DST",
-    "pos": "DST19",
-    "adp": {
-      "fantasypros": 212
-    }
-  },
-  {
-    "id": "fp_jacory-croskey-merritt-was",
-    "name": "Jacory Croskey-Merritt WAS",
-    "pos": "RB59",
-    "adp": {
-      "fantasypros": 213
-    }
-  },
-  {
-    "id": "fp_tampa-bay-buccaneers-dst",
-    "name": "Tampa Bay Buccaneers DST",
-    "pos": "DST20",
-    "adp": {
-      "fantasypros": 214
-    }
-  },
-  {
-    "id": "fp_roschon-johnson-chi",
-    "name": "Roschon Johnson CHI",
-    "pos": "RB60",
-    "adp": {
-      "fantasypros": 215
-    }
-  },
-  {
-    "id": "fp_tyler-loop-bal",
-    "name": "Tyler Loop BAL",
-    "pos": "K15",
-    "adp": {
-      "fantasypros": 216
-    }
-  },
-  {
-    "id": "fp_arizona-cardinals-dst",
-    "name": "Arizona Cardinals DST",
-    "pos": "DST21",
-    "adp": {
-      "fantasypros": 217
-    }
-  },
-  {
-    "id": "fp_new-england-patriots-dst",
-    "name": "New England Patriots DST",
-    "pos": "DST22",
-    "adp": {
-      "fantasypros": 218
+      "fantasypros": 199
     }
   },
   {
@@ -1748,37 +1596,189 @@
     "name": "Cade Otton TB",
     "pos": "TE24",
     "adp": {
+      "fantasypros": 200
+    }
+  },
+  {
+    "id": "fp_cedric-tillman-cle",
+    "name": "Cedric Tillman CLE",
+    "pos": "WR67",
+    "adp": {
+      "fantasypros": 201
+    }
+  },
+  {
+    "id": "fp_wan-dale-robinson-nyg",
+    "name": "Wan'Dale Robinson NYG",
+    "pos": "WR68",
+    "adp": {
+      "fantasypros": 202
+    }
+  },
+  {
+    "id": "fp_geno-smith-lv",
+    "name": "Geno Smith LV",
+    "pos": "QB27",
+    "adp": {
+      "fantasypros": 203
+    }
+  },
+  {
+    "id": "fp_los-angeles-chargers-dst",
+    "name": "Los Angeles Chargers DST",
+    "pos": "DST16",
+    "adp": {
+      "fantasypros": 204
+    }
+  },
+  {
+    "id": "fp_los-angeles-rams-dst",
+    "name": "Los Angeles Rams DST",
+    "pos": "DST17",
+    "adp": {
+      "fantasypros": 205
+    }
+  },
+  {
+    "id": "fp_aaron-rodgers-pit",
+    "name": "Aaron Rodgers PIT",
+    "pos": "QB28",
+    "adp": {
+      "fantasypros": 206
+    }
+  },
+  {
+    "id": "fp_new-york-jets-dst",
+    "name": "New York Jets DST",
+    "pos": "DST18",
+    "adp": {
+      "fantasypros": 207
+    }
+  },
+  {
+    "id": "fp_arizona-cardinals-dst",
+    "name": "Arizona Cardinals DST",
+    "pos": "DST19",
+    "adp": {
+      "fantasypros": 208
+    }
+  },
+  {
+    "id": "fp_anthony-richardson-sr-ind",
+    "name": "Anthony Richardson Sr. IND",
+    "pos": "QB29",
+    "adp": {
+      "fantasypros": 209
+    }
+  },
+  {
+    "id": "fp_romeo-doubs-gb",
+    "name": "Romeo Doubs GB",
+    "pos": "WR69",
+    "adp": {
+      "fantasypros": 210
+    }
+  },
+  {
+    "id": "fp_quentin-johnston-lac",
+    "name": "Quentin Johnston LAC",
+    "pos": "WR70",
+    "adp": {
+      "fantasypros": 211
+    }
+  },
+  {
+    "id": "fp_justice-hill-bal",
+    "name": "Justice Hill BAL",
+    "pos": "RB57",
+    "adp": {
+      "fantasypros": 212
+    }
+  },
+  {
+    "id": "fp_will-reichard-min",
+    "name": "Will Reichard MIN",
+    "pos": "K14",
+    "adp": {
+      "fantasypros": 213
+    }
+  },
+  {
+    "id": "fp_jake-moody-sf",
+    "name": "Jake Moody SF",
+    "pos": "K15",
+    "adp": {
+      "fantasypros": 214
+    }
+  },
+  {
+    "id": "fp_seattle-seahawks-dst",
+    "name": "Seattle Seahawks DST",
+    "pos": "DST20",
+    "adp": {
+      "fantasypros": 215
+    }
+  },
+  {
+    "id": "fp_rico-dowdle-car",
+    "name": "Rico Dowdle CAR",
+    "pos": "RB58",
+    "adp": {
+      "fantasypros": 216
+    }
+  },
+  {
+    "id": "fp_deandre-hopkins-bal",
+    "name": "DeAndre Hopkins BAL",
+    "pos": "WR71",
+    "adp": {
+      "fantasypros": 217
+    }
+  },
+  {
+    "id": "fp_chicago-bears-dst",
+    "name": "Chicago Bears DST",
+    "pos": "DST21",
+    "adp": {
+      "fantasypros": 218
+    }
+  },
+  {
+    "id": "fp_matt-gay-was",
+    "name": "Matt Gay WAS",
+    "pos": "K16",
+    "adp": {
       "fantasypros": 219
     }
   },
   {
-    "id": "fp_sam-darnold-sea",
-    "name": "Sam Darnold SEA",
-    "pos": "QB28",
+    "id": "fp_tampa-bay-buccaneers-dst",
+    "name": "Tampa Bay Buccaneers DST",
+    "pos": "DST22",
     "adp": {
       "fantasypros": 220
     }
   },
   {
-    "id": "fp_brandon-mcmanus-gb",
-    "name": "Brandon McManus GB",
-    "pos": "K16",
+    "id": "fp_tyler-loop-bal",
+    "name": "Tyler Loop BAL",
+    "pos": "K17",
     "adp": {
       "fantasypros": 221
     }
   },
   {
-    "id": "fp_demario-douglas-ne",
-    "name": "DeMario Douglas NE",
-    "pos": "WR72",
+    "id": "fp_brandon-mcmanus-gb",
+    "name": "Brandon McManus GB",
+    "pos": "K18",
     "adp": {
       "fantasypros": 222
     }
   },
   {
-    "id": "fp_mike-gesicki-cin",
-    "name": "Mike Gesicki CIN",
-    "pos": "TE25",
+    "id": "fp_roschon-johnson-chi",
+    "name": "Roschon Johnson CHI",
+    "pos": "RB59",
     "adp": {
       "fantasypros": 223
     }
@@ -1786,31 +1786,31 @@
   {
     "id": "fp_chig-okonkwo-ten",
     "name": "Chig Okonkwo TEN",
-    "pos": "TE26",
+    "pos": "TE25",
     "adp": {
       "fantasypros": 224
     }
   },
   {
-    "id": "fp_aaron-rodgers-pit",
-    "name": "Aaron Rodgers PIT",
-    "pos": "QB29",
+    "id": "fp_demario-douglas-ne",
+    "name": "DeMario Douglas NE",
+    "pos": "WR72",
     "adp": {
       "fantasypros": 225
     }
   },
   {
-    "id": "fp_zack-moss",
-    "name": "Zack Moss",
-    "pos": "RB61",
+    "id": "fp_daniel-carlson-lv",
+    "name": "Daniel Carlson LV",
+    "pos": "K19",
     "adp": {
       "fantasypros": 226
     }
   },
   {
-    "id": "fp_joshua-palmer-buf",
-    "name": "Joshua Palmer BUF",
-    "pos": "WR73",
+    "id": "fp_mike-gesicki-cin",
+    "name": "Mike Gesicki CIN",
+    "pos": "TE26",
     "adp": {
       "fantasypros": 227
     }
@@ -1824,75 +1824,43 @@
     }
   },
   {
-    "id": "fp_blake-corum-lar",
-    "name": "Blake Corum LAR",
-    "pos": "RB62",
+    "id": "fp_dalton-schultz-hou",
+    "name": "Dalton Schultz HOU",
+    "pos": "TE28",
     "adp": {
       "fantasypros": 229
     }
   },
   {
-    "id": "fp_daniel-carlson-lv",
-    "name": "Daniel Carlson LV",
-    "pos": "K17",
+    "id": "fp_raheem-mostert-lv",
+    "name": "Raheem Mostert LV",
+    "pos": "RB60",
     "adp": {
       "fantasypros": 230
     }
   },
   {
-    "id": "fp_dalton-schultz-hou",
-    "name": "Dalton Schultz HOU",
-    "pos": "TE28",
+    "id": "fp_marshawn-lloyd-gb",
+    "name": "MarShawn Lloyd GB",
+    "pos": "RB61",
     "adp": {
       "fantasypros": 231
     }
   },
   {
-    "id": "fp_marshawn-lloyd-gb",
-    "name": "MarShawn Lloyd GB",
-    "pos": "RB63",
+    "id": "fp_jacory-croskey-merritt-was",
+    "name": "Jacory Croskey-Merritt WAS",
+    "pos": "RB62",
     "adp": {
       "fantasypros": 232
     }
   },
   {
-    "id": "fp_raheem-mostert-lv",
-    "name": "Raheem Mostert LV",
-    "pos": "RB64",
-    "adp": {
-      "fantasypros": 233
-    }
-  },
-  {
-    "id": "fp_will-reichard-min",
-    "name": "Will Reichard MIN",
-    "pos": "K18",
-    "adp": {
-      "fantasypros": 234
-    }
-  },
-  {
-    "id": "fp_dj-giddens-ind",
-    "name": "DJ Giddens IND",
-    "pos": "RB65",
-    "adp": {
-      "fantasypros": 235
-    }
-  },
-  {
-    "id": "fp_jake-moody-sf",
-    "name": "Jake Moody SF",
-    "pos": "K19",
-    "adp": {
-      "fantasypros": 236
-    }
-  },
-  {
     "id": "fp_will-shipley-phi",
     "name": "Will Shipley PHI",
-    "pos": "RB66",
+    "pos": "RB63",
     "adp": {
-      "fantasypros": 237
+      "fantasypros": 233
     }
   },
   {
@@ -1900,47 +1868,31 @@
     "name": "Taysom Hill NO",
     "pos": "TE29",
     "adp": {
-      "fantasypros": 238
-    }
-  },
-  {
-    "id": "fp_woody-marks-hou",
-    "name": "Woody Marks HOU",
-    "pos": "RB67",
-    "adp": {
-      "fantasypros": 239
+      "fantasypros": 234
     }
   },
   {
     "id": "fp_isaac-teslaa-det",
     "name": "Isaac TeSlaa DET",
-    "pos": "WR74",
+    "pos": "WR73",
     "adp": {
-      "fantasypros": 240
+      "fantasypros": 235
     }
   },
   {
-    "id": "fp_jarquez-hunter-lar",
-    "name": "Jarquez Hunter LAR",
-    "pos": "RB68",
+    "id": "fp_ja-tavion-sanders-car",
+    "name": "Ja'Tavion Sanders CAR",
+    "pos": "TE30",
     "adp": {
-      "fantasypros": 241
+      "fantasypros": 236
     }
   },
   {
     "id": "fp_kendre-miller-no",
     "name": "Kendre Miller NO",
-    "pos": "RB69",
+    "pos": "RB64",
     "adp": {
-      "fantasypros": 242
-    }
-  },
-  {
-    "id": "fp_dontayvion-wicks-gb",
-    "name": "Dontayvion Wicks GB",
-    "pos": "WR75",
-    "adp": {
-      "fantasypros": 243
+      "fantasypros": 237
     }
   },
   {
@@ -1948,15 +1900,7 @@
     "name": "Cincinnati Bengals DST",
     "pos": "DST23",
     "adp": {
-      "fantasypros": 244
-    }
-  },
-  {
-    "id": "fp_mason-taylor-nyj",
-    "name": "Mason Taylor NYJ",
-    "pos": "TE30",
-    "adp": {
-      "fantasypros": 245
+      "fantasypros": 238
     }
   },
   {
@@ -1964,7 +1908,7 @@
     "name": "Cleveland Browns DST",
     "pos": "DST24",
     "adp": {
-      "fantasypros": 246
+      "fantasypros": 239
     }
   },
   {
@@ -1972,7 +1916,39 @@
     "name": "Shedeur Sanders CLE",
     "pos": "QB30",
     "adp": {
-      "fantasypros": 247
+      "fantasypros": 240
+    }
+  },
+  {
+    "id": "fp_joshua-palmer-buf",
+    "name": "Joshua Palmer BUF",
+    "pos": "WR74",
+    "adp": {
+      "fantasypros": 241
+    }
+  },
+  {
+    "id": "fp_mason-taylor-nyj",
+    "name": "Mason Taylor NYJ",
+    "pos": "TE31",
+    "adp": {
+      "fantasypros": 242
+    }
+  },
+  {
+    "id": "fp_blake-corum-lar",
+    "name": "Blake Corum LAR",
+    "pos": "RB65",
+    "adp": {
+      "fantasypros": 243
+    }
+  },
+  {
+    "id": "fp_miles-sanders-dal",
+    "name": "Miles Sanders DAL",
+    "pos": "RB66",
+    "adp": {
+      "fantasypros": 244
     }
   },
   {
@@ -1980,71 +1956,31 @@
     "name": "Indianapolis Colts DST",
     "pos": "DST25",
     "adp": {
-      "fantasypros": 248
-    }
-  },
-  {
-    "id": "fp_miles-sanders-dal",
-    "name": "Miles Sanders DAL",
-    "pos": "RB70",
-    "adp": {
-      "fantasypros": 249
+      "fantasypros": 245
     }
   },
   {
     "id": "fp_dont-e-thornton-jr-lv",
     "name": "Dont'e Thornton Jr. LV",
-    "pos": "WR76",
+    "pos": "WR75",
     "adp": {
-      "fantasypros": 250
-    }
-  },
-  {
-    "id": "fp_audric-estime-den",
-    "name": "Audric Estime DEN",
-    "pos": "RB71",
-    "adp": {
-      "fantasypros": 251
+      "fantasypros": 246
     }
   },
   {
     "id": "fp_jalen-royals-kc",
     "name": "Jalen Royals KC",
-    "pos": "WR77",
+    "pos": "WR76",
     "adp": {
-      "fantasypros": 252
+      "fantasypros": 247
     }
   },
   {
     "id": "fp_tyler-lockett-ten",
     "name": "Tyler Lockett TEN",
-    "pos": "WR78",
+    "pos": "WR77",
     "adp": {
-      "fantasypros": 253
-    }
-  },
-  {
-    "id": "fp_joshua-karty-lar",
-    "name": "Joshua Karty LAR",
-    "pos": "K20",
-    "adp": {
-      "fantasypros": 254
-    }
-  },
-  {
-    "id": "fp_calvin-austin-iii-pit",
-    "name": "Calvin Austin III PIT",
-    "pos": "WR79",
-    "adp": {
-      "fantasypros": 255
-    }
-  },
-  {
-    "id": "fp_alec-pierce-ind",
-    "name": "Alec Pierce IND",
-    "pos": "WR80",
-    "adp": {
-      "fantasypros": 256
+      "fantasypros": 248
     }
   },
   {
@@ -2052,7 +1988,47 @@
     "name": "Jaxson Dart NYG",
     "pos": "QB31",
     "adp": {
-      "fantasypros": 257
+      "fantasypros": 249
+    }
+  },
+  {
+    "id": "fp_joshua-karty-lar",
+    "name": "Joshua Karty LAR",
+    "pos": "K20",
+    "adp": {
+      "fantasypros": 250
+    }
+  },
+  {
+    "id": "fp_zack-moss",
+    "name": "Zack Moss",
+    "pos": "RB67",
+    "adp": {
+      "fantasypros": 251
+    }
+  },
+  {
+    "id": "fp_alec-pierce-ind",
+    "name": "Alec Pierce IND",
+    "pos": "WR78",
+    "adp": {
+      "fantasypros": 252
+    }
+  },
+  {
+    "id": "fp_audric-estime-den",
+    "name": "Audric Estime DEN",
+    "pos": "RB68",
+    "adp": {
+      "fantasypros": 253
+    }
+  },
+  {
+    "id": "fp_calvin-austin-iii-pit",
+    "name": "Calvin Austin III PIT",
+    "pos": "WR79",
+    "adp": {
+      "fantasypros": 254
     }
   },
   {
@@ -2060,23 +2036,15 @@
     "name": "Las Vegas Raiders DST",
     "pos": "DST26",
     "adp": {
-      "fantasypros": 258
+      "fantasypros": 255
     }
   },
   {
-    "id": "fp_cole-kmet-chi",
-    "name": "Cole Kmet CHI",
-    "pos": "TE31",
+    "id": "fp_dj-giddens-ind",
+    "name": "DJ Giddens IND",
+    "pos": "RB69",
     "adp": {
-      "fantasypros": 259
-    }
-  },
-  {
-    "id": "fp_russell-wilson-nyg",
-    "name": "Russell Wilson NYG",
-    "pos": "QB32",
-    "adp": {
-      "fantasypros": 260
+      "fantasypros": 256
     }
   },
   {
@@ -2084,31 +2052,23 @@
     "name": "Miami Dolphins DST",
     "pos": "DST27",
     "adp": {
-      "fantasypros": 261
-    }
-  },
-  {
-    "id": "fp_elijah-mitchell-kc",
-    "name": "Elijah Mitchell KC",
-    "pos": "RB72",
-    "adp": {
-      "fantasypros": 262
-    }
-  },
-  {
-    "id": "fp_jaleel-mclaughlin-den",
-    "name": "Jaleel McLaughlin DEN",
-    "pos": "RB73",
-    "adp": {
-      "fantasypros": 263
+      "fantasypros": 257
     }
   },
   {
     "id": "fp_kyle-monangai-chi",
     "name": "Kyle Monangai CHI",
-    "pos": "RB74",
+    "pos": "RB70",
     "adp": {
-      "fantasypros": 264
+      "fantasypros": 258
+    }
+  },
+  {
+    "id": "fp_elijah-mitchell-kc",
+    "name": "Elijah Mitchell KC",
+    "pos": "RB71",
+    "adp": {
+      "fantasypros": 259
     }
   },
   {
@@ -2116,23 +2076,15 @@
     "name": "New Orleans Saints DST",
     "pos": "DST28",
     "adp": {
-      "fantasypros": 265
+      "fantasypros": 260
     }
   },
   {
-    "id": "fp_jacksonville-jaguars-dst",
-    "name": "Jacksonville Jaguars DST",
-    "pos": "DST29",
+    "id": "fp_cole-kmet-chi",
+    "name": "Cole Kmet CHI",
+    "pos": "TE32",
     "adp": {
-      "fantasypros": 266
-    }
-  },
-  {
-    "id": "fp_andrei-iosivas-cin",
-    "name": "Andrei Iosivas CIN",
-    "pos": "WR81",
-    "adp": {
-      "fantasypros": 267
+      "fantasypros": 261
     }
   },
   {
@@ -2140,31 +2092,39 @@
     "name": "Justin Tucker",
     "pos": "K21",
     "adp": {
-      "fantasypros": 268
+      "fantasypros": 262
     }
   },
   {
-    "id": "fp_trevor-etienne-car",
-    "name": "Trevor Etienne CAR",
-    "pos": "RB75",
+    "id": "fp_jacksonville-jaguars-dst",
+    "name": "Jacksonville Jaguars DST",
+    "pos": "DST29",
     "adp": {
-      "fantasypros": 269
+      "fantasypros": 263
     }
   },
   {
-    "id": "fp_tahj-brooks-cin",
-    "name": "Tahj Brooks CIN",
-    "pos": "RB76",
+    "id": "fp_russell-wilson-nyg",
+    "name": "Russell Wilson NYG",
+    "pos": "QB32",
     "adp": {
-      "fantasypros": 270
+      "fantasypros": 264
     }
   },
   {
-    "id": "fp_ja-tavion-sanders-car",
-    "name": "Ja'Tavion Sanders CAR",
-    "pos": "TE32",
+    "id": "fp_woody-marks-hou",
+    "name": "Woody Marks HOU",
+    "pos": "RB72",
     "adp": {
-      "fantasypros": 271
+      "fantasypros": 265
+    }
+  },
+  {
+    "id": "fp_keaton-mitchell-bal",
+    "name": "Keaton Mitchell BAL",
+    "pos": "RB73",
+    "adp": {
+      "fantasypros": 266
     }
   },
   {
@@ -2172,7 +2132,15 @@
     "name": "Noah Gray KC",
     "pos": "TE33",
     "adp": {
-      "fantasypros": 272
+      "fantasypros": 267
+    }
+  },
+  {
+    "id": "fp_trevor-etienne-car",
+    "name": "Trevor Etienne CAR",
+    "pos": "RB74",
+    "adp": {
+      "fantasypros": 268
     }
   },
   {
@@ -2180,15 +2148,7 @@
     "name": "Jalen Milroe SEA",
     "pos": "QB33",
     "adp": {
-      "fantasypros": 273
-    }
-  },
-  {
-    "id": "fp_tyler-higbee-lar",
-    "name": "Tyler Higbee LAR",
-    "pos": "TE34",
-    "adp": {
-      "fantasypros": 274
+      "fantasypros": 269
     }
   },
   {
@@ -2196,13 +2156,53 @@
     "name": "Tennessee Titans DST",
     "pos": "DST30",
     "adp": {
-      "fantasypros": 275
+      "fantasypros": 270
+    }
+  },
+  {
+    "id": "fp_andrei-iosivas-cin",
+    "name": "Andrei Iosivas CIN",
+    "pos": "WR80",
+    "adp": {
+      "fantasypros": 271
+    }
+  },
+  {
+    "id": "fp_tyler-higbee-lar",
+    "name": "Tyler Higbee LAR",
+    "pos": "TE34",
+    "adp": {
+      "fantasypros": 272
     }
   },
   {
     "id": "fp_darius-slayton-nyg",
     "name": "Darius Slayton NYG",
-    "pos": "WR82",
+    "pos": "WR81",
+    "adp": {
+      "fantasypros": 273
+    }
+  },
+  {
+    "id": "fp_jordan-james-sf",
+    "name": "Jordan James SF",
+    "pos": "RB75",
+    "adp": {
+      "fantasypros": 274
+    }
+  },
+  {
+    "id": "fp_joe-flacco-cle",
+    "name": "Joe Flacco CLE",
+    "pos": "QB34",
+    "adp": {
+      "fantasypros": 275
+    }
+  },
+  {
+    "id": "fp_ollie-gordon-ii-mia",
+    "name": "Ollie Gordon II MIA",
+    "pos": "RB76",
     "adp": {
       "fantasypros": 276
     }
@@ -2216,57 +2216,57 @@
     }
   },
   {
-    "id": "fp_jordan-james-sf",
-    "name": "Jordan James SF",
-    "pos": "RB78",
+    "id": "fp_jaylin-noel-hou",
+    "name": "Jaylin Noel HOU",
+    "pos": "WR82",
     "adp": {
       "fantasypros": 278
     }
   },
   {
-    "id": "fp_noah-fant-cin",
-    "name": "Noah Fant CIN",
-    "pos": "TE35",
+    "id": "fp_michael-wilson-ari",
+    "name": "Michael Wilson ARI",
+    "pos": "WR83",
     "adp": {
       "fantasypros": 279
     }
   },
   {
-    "id": "fp_jaylin-noel-hou",
-    "name": "Jaylin Noel HOU",
-    "pos": "WR83",
+    "id": "fp_terrance-ferguson-lar",
+    "name": "Terrance Ferguson LAR",
+    "pos": "TE35",
     "adp": {
       "fantasypros": 280
     }
   },
   {
-    "id": "fp_terrance-ferguson-lar",
-    "name": "Terrance Ferguson LAR",
+    "id": "fp_noah-fant-cin",
+    "name": "Noah Fant CIN",
     "pos": "TE36",
     "adp": {
       "fantasypros": 281
     }
   },
   {
-    "id": "fp_keaton-mitchell-bal",
-    "name": "Keaton Mitchell BAL",
-    "pos": "RB79",
+    "id": "fp_pat-bryant-den",
+    "name": "Pat Bryant DEN",
+    "pos": "WR84",
     "adp": {
       "fantasypros": 282
     }
   },
   {
-    "id": "fp_ollie-gordon-ii-mia",
-    "name": "Ollie Gordon II MIA",
-    "pos": "RB80",
+    "id": "fp_dontayvion-wicks-gb",
+    "name": "Dontayvion Wicks GB",
+    "pos": "WR85",
     "adp": {
       "fantasypros": 283
     }
   },
   {
-    "id": "fp_a-j-dillon-phi",
-    "name": "A.J. Dillon PHI",
-    "pos": "RB81",
+    "id": "fp_cam-little-jac",
+    "name": "Cam Little JAC",
+    "pos": "K22",
     "adp": {
       "fantasypros": 284
     }
@@ -2274,73 +2274,33 @@
   {
     "id": "fp_dyami-brown-jac",
     "name": "Dyami Brown JAC",
-    "pos": "WR84",
+    "pos": "WR86",
     "adp": {
       "fantasypros": 285
     }
   },
   {
-    "id": "fp_pat-bryant-den",
-    "name": "Pat Bryant DEN",
-    "pos": "WR85",
+    "id": "fp_cairo-santos-chi",
+    "name": "Cairo Santos CHI",
+    "pos": "K23",
     "adp": {
       "fantasypros": 286
     }
   },
   {
-    "id": "fp_joe-flacco-cle",
-    "name": "Joe Flacco CLE",
-    "pos": "QB34",
+    "id": "fp_jarquez-hunter-lar",
+    "name": "Jarquez Hunter LAR",
+    "pos": "RB78",
     "adp": {
       "fantasypros": 287
     }
   },
   {
-    "id": "fp_cairo-santos-chi",
-    "name": "Cairo Santos CHI",
-    "pos": "K22",
-    "adp": {
-      "fantasypros": 288
-    }
-  },
-  {
     "id": "fp_jason-myers-sea",
     "name": "Jason Myers SEA",
-    "pos": "K23",
+    "pos": "K24",
     "adp": {
-      "fantasypros": 289
-    }
-  },
-  {
-    "id": "fp_troy-franklin-den",
-    "name": "Troy Franklin DEN",
-    "pos": "WR86",
-    "adp": {
-      "fantasypros": 290
-    }
-  },
-  {
-    "id": "fp_atlanta-falcons-dst",
-    "name": "Atlanta Falcons DST",
-    "pos": "DST31",
-    "adp": {
-      "fantasypros": 291
-    }
-  },
-  {
-    "id": "fp_samaje-perine-cin",
-    "name": "Samaje Perine CIN",
-    "pos": "RB82",
-    "adp": {
-      "fantasypros": 292
-    }
-  },
-  {
-    "id": "fp_devin-neal-no",
-    "name": "Devin Neal NO",
-    "pos": "RB83",
-    "adp": {
-      "fantasypros": 293
+      "fantasypros": 288
     }
   },
   {
@@ -2348,37 +2308,77 @@
     "name": "Tory Horton SEA",
     "pos": "WR87",
     "adp": {
+      "fantasypros": 289
+    }
+  },
+  {
+    "id": "fp_tahj-brooks-cin",
+    "name": "Tahj Brooks CIN",
+    "pos": "RB79",
+    "adp": {
+      "fantasypros": 290
+    }
+  },
+  {
+    "id": "fp_troy-franklin-den",
+    "name": "Troy Franklin DEN",
+    "pos": "WR88",
+    "adp": {
+      "fantasypros": 291
+    }
+  },
+  {
+    "id": "fp_atlanta-falcons-dst",
+    "name": "Atlanta Falcons DST",
+    "pos": "DST31",
+    "adp": {
+      "fantasypros": 292
+    }
+  },
+  {
+    "id": "fp_samaje-perine-cin",
+    "name": "Samaje Perine CIN",
+    "pos": "RB80",
+    "adp": {
+      "fantasypros": 293
+    }
+  },
+  {
+    "id": "fp_jaleel-mclaughlin-den",
+    "name": "Jaleel McLaughlin DEN",
+    "pos": "RB81",
+    "adp": {
       "fantasypros": 294
     }
   },
   {
-    "id": "fp_theo-johnson-nyg",
-    "name": "Theo Johnson NYG",
-    "pos": "TE37",
+    "id": "fp_alexander-mattison-mia",
+    "name": "Alexander Mattison MIA",
+    "pos": "RB82",
     "adp": {
       "fantasypros": 295
     }
   },
   {
-    "id": "fp_cam-little-jac",
-    "name": "Cam Little JAC",
-    "pos": "K24",
+    "id": "fp_devin-neal-no",
+    "name": "Devin Neal NO",
+    "pos": "RB83",
     "adp": {
       "fantasypros": 296
     }
   },
   {
-    "id": "fp_michael-mayer-lv",
-    "name": "Michael Mayer LV",
-    "pos": "TE38",
+    "id": "fp_dawson-knox-buf",
+    "name": "Dawson Knox BUF",
+    "pos": "TE37",
     "adp": {
       "fantasypros": 297
     }
   },
   {
-    "id": "fp_dawson-knox-buf",
-    "name": "Dawson Knox BUF",
-    "pos": "TE39",
+    "id": "fp_a-j-dillon-phi",
+    "name": "A.J. Dillon PHI",
+    "pos": "RB84",
     "adp": {
       "fantasypros": 298
     }
@@ -2386,15 +2386,15 @@
   {
     "id": "fp_roman-wilson-pit",
     "name": "Roman Wilson PIT",
-    "pos": "WR88",
+    "pos": "WR89",
     "adp": {
       "fantasypros": 299
     }
   },
   {
-    "id": "fp_blake-grupe-no",
-    "name": "Blake Grupe NO",
-    "pos": "K25",
+    "id": "fp_carolina-panthers-dst",
+    "name": "Carolina Panthers DST",
+    "pos": "DST32",
     "adp": {
       "fantasypros": 300
     }
