@@ -8,7 +8,8 @@ import { useRankingsStore } from '../store/rankingsStore';
 type Player = {
   id: string;
   name: string;
-  pos: 'QB' | 'RB' | 'WR' | 'TE' | 'K' | 'DST';
+  // Store may supply tags like "WR1"; display just shows pos label
+  pos: string;
   team?: string;
 };
 

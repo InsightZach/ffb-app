@@ -1,10 +1,12 @@
 import { create } from 'zustand';
 import * as SecureStore from 'expo-secure-store';
+import seedPlayers from '../../data/players.json';
 
 type Player = {
   id: string;
   name: string;
-  pos: 'QB' | 'RB' | 'WR' | 'TE' | 'K' | 'DST';
+  // Some seeds include like "WR1"; normalize for display
+  pos: string;
   team?: string;
 };
 
@@ -35,17 +37,16 @@ export const useRankingsStore = create<RankingsState>((set, get) => ({
       }
     } catch {}
 
-    // Minimal seed of sample players now; we'll replace with real 2025 Top-250 soon.
-    const seed: Player[] = [
-      { id: 'p_bijan_robinson', name: 'Bijan Robinson', pos: 'RB', team: 'ATL' },
-      { id: 'p_saquon_barkley', name: 'Saquon Barkley', pos: 'RB', team: 'PHI' },
-      { id: 'p_jamarr_chase', name: "Ja'Marr Chase", pos: 'WR', team: 'CIN' },
-      { id: 'p_justin_jefferson', name: 'Justin Jefferson', pos: 'WR', team: 'MIN' },
-      { id: 'p_jahmyr_gibbs', name: 'Jahmyr Gibbs', pos: 'RB', team: 'DET' },
-    ];
-    set({ rankings: seed });
+    // Seed from data/players.json (Top-250+)
+    const normalized: Player[] = (seedPlayers as any[]).map((p) => ({
+      id: p.id,
+      name: p.name.replace(/\s+[A-Z]{2,3}$/,'').trim(),
+      pos: String(p.pos).replace(/\d+$/,'').toUpperCase(),
+      team: (p.name.match(/([A-Z]{2,3})$/)?.[1] ?? p.team) || undefined,
+    }));
+    set({ rankings: normalized.slice(0, 250) });
     try {
-      await SecureStore.setItemAsync(STORAGE_KEY, JSON.stringify(seed));
+      await SecureStore.setItemAsync(STORAGE_KEY, JSON.stringify(normalized.slice(0, 250)));
     } catch {}
   },
 }));
